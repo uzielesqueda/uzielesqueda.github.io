@@ -107,7 +107,7 @@ media.muestra
 # Aquí el cálculo de la moda
 tabla.muestra <- data.frame(table(muestra))
 tabla.muestra
-
+hist(numeros)
 
 ```
 
